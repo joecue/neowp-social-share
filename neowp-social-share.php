@@ -20,8 +20,8 @@ function neowp_wp_admin_scripts() {
 }
 add_action( 'admin_enqueue_scripts', 'neowp_wp_admin_scripts' );
 
-
-
+// Adds social media profile fields to general settings.
+require_once( plugin_dir_path( __FILE__ ).'social-media/social-media-fields.php' );
 
 /* Stop Adding Functions Below this Line */
 ?>
