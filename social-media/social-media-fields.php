@@ -6,7 +6,7 @@
    *
    */
 
- $neowp_social_media = new new_neowp_social_media_setting();
+ $neowp_social_media = new new_newowp_social_media_setting();
 
 class new_newowp_social_media_setting {
  function new_newowp_social_media_setting() {
