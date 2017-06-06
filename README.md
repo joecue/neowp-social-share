@@ -18,3 +18,7 @@ Since this plugin repo was used for a demo at a meetup, I wanted something that 
   - Contains the intial commit (during the demo this is where I started from)
 - 1-admin
   - Contains the code to create the two settings field on the general settings page of the WordPress Admin to capture the Facebook and Twitter profile names.
+- 2-admin
+  - Contains the meta box with the custom fields for the Open Graph Meta Tags
+  
+Sample [child theme](https://github.com/joecue/twentyseventeen-child) for Twenty Seventeen
